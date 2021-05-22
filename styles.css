@@ -7,9 +7,12 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 h1 {
   font-size: 5rem;
   color: #DBEDF3;
-  font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
-
+  font-family: cursive;
+  text-shadow: 5px 0 #000000;
+  background-color: rgba(255, 255, 255, 0.4);
+  border-radius: 20px;
+  display: inline-block;
+  padding: 0 10px 0 10px;
 }
 
 footer {
@@ -70,7 +73,7 @@ footer {
   font-family: 'Arvo', cursive;
   line-height: 2;
   font-weight: 900;
-  color: #DA0463;
+  color: #1d1171;
   text-shadow: 3px 0 #DBEDF3;
   border-radius: 15px;
   display: inline-block;
